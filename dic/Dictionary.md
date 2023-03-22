@@ -31,3 +31,6 @@ onke = where (onke)
 onzi = why (onzee)
 
 onbi = how
+ 
+ i like curry
+ 
