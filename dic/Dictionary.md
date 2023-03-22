@@ -57,3 +57,13 @@ onke = where (onke)
 onzi = why (onzee)
 
 onbi = how (onbee)
+
+# Emotions
+
+ek' = sad (ekuh)
+
+el' = happy (eluh)
+
+nag' = angry (naguh)
+
+nimpo = calm
