@@ -24,4 +24,10 @@ onti = what (onti)
 
 onoi = who (onoy)
 
+ondi = when (ondee)
 
+onke = where (onke)
+
+onzi = why (onzee)
+
+onbi = how
