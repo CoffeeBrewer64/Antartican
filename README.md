@@ -14,7 +14,7 @@ Nipok uses English letters with apostrophes (') after them with different sounds
 
 [Dictionary](./dic/Dictionary.md)
 
-[Grammar Intro](./gra/Grammar_Intro.md)
+[Grammar Intro](./gra/Grammar.md)
 
 [Strid (English-like system)](./strid/Strid.md)
 
