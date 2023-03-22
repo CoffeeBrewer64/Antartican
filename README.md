@@ -2,6 +2,14 @@
 
 The fictional language of Antartican. **This is not the actual language of Antartica. It's an inside joke.**
 
+# Systems
+
+There are two writing and speaking systems (just called "Systems"). These are Strid and Nipok.
+
+Strid uses English letters and sounds.
+
+Nipok uses English letters with apostrophes (') after them with different sounds.
+
 # Links
 
 [Dictionary](./dic/Dictionary.md)
