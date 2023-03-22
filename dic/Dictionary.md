@@ -119,3 +119,21 @@ cur' = curry (curuh)
 b'ni = meat (buhni)
 
 laq'g = fish (lackuhg)
+
+ch'k' = chicken (chuhkuh)
+
+# Sport
+
+cr'k = cricket (cruhk)
+
+b'min = badminton (buhmin)
+
+hiok = hockey (hiok)
+
+amlesta = athletics (amlesta)
+
+f'bal = football (fuhbal)
+
+'swi = swimming (uhswi)
+
+
