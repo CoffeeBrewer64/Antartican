@@ -22,10 +22,10 @@ Nipok uses English letters with apostrophes (') after them with different sounds
 
 # Thanks
 
-Special thanks to Sanky and Skeelo (cover names): without them, this project wouldn't exist!
+Special thanks to @SankyMan and Skeelo (cover names): without them, this project wouldn't exist!
 
 # License
 
 This project is under the following terms:
 
-Anyone can use this however they please, with no limitations whatsoever. However, they agree that @CoffeeBrewer64, Sanky and Skeelo helped to create whatever is made with this project.
+Anyone can use this however they please, with no limitations whatsoever. However, they agree that @CoffeeBrewer64, @SankyMan and Skeelo helped to create whatever is made with this project.
